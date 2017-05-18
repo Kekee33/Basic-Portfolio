@@ -16,3 +16,26 @@ h1 {
 h2 {
 	color: #00A09A;
 }
+
+img {
+
+	}
+
+.technical_1 {
+	position: static;
+
+}
+
+.technical_2 {
+	position: relative;
+}
+.people_1 {
+	position: absolute;
+}
+.nature_1 {
+position: absolute;
+}
+
+.food_1 {
+
+}
