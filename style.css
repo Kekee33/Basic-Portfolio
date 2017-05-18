@@ -21,21 +21,78 @@ img {
 
 	}
 
-.technical_1 {
+#technical_1 {
 	position: static;
-
+	top: 50px;
+	left: 50px;
 }
 
-.technical_2 {
-	position: relative;
-}
-.people_1 {
+#technical_2 {
+	position: fixed; 
+	top: 50px;
+	left: 50px;
+}	
+
+
+#people_1 {
 	position: absolute;
+	top: 150px;
+	left: 300px;
 }
-.nature_1 {
-position: absolute;
+#nature_1 {
+	position: absolute;
+	top: 300px
+	left: 300px;
 }
 
-.food_1 {
+#food_1 {
 
 }
+
+#container {
+	background: #FFFFFF;
+}
+footer {
+	background: #262626;
+	color: #FFFFFF;
+	top: 10px;
+	bottom: 10px;
+	padding: 5px
+	font-size: 12px;
+}
+
+form-wrap {
+	width: 600px;
+	border: 5px #FFFFFF
+	background-color: #FFFFFF
+	margin: 50px auto;
+	padding: 20px 0;
+}
+
+form {
+	width: 500px;
+	margin: 0 auto;
+}
+
+label {
+	display: block;
+	margin: 5px 0 5px 20px;
+	font: sans-serif;
+	color:;
+}
+
+input {
+	width: 250px;
+	margin: 0 0 0 20px;
+}
+
+textarea {
+	width:250px;
+	margin: 0 0 0 2px;
+}
+
+fieldset {
+	border: none;
+	background-color: #f6f6f6
+	padding: 0 0 20 0;
+
