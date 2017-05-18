@@ -17,20 +17,12 @@ h2 {
 	color: #00A09A;
 }
 
-img {
-
-	}
-
-#technical_1 {
-	position: static;
-	top: 50px;
-	left: 50px;
+ technical_1 {
+		float: left;
 }
 
-#technical_2 {
-	position: fixed; 
-	top: 50px;
-	left: 50px;
+#technical_2 {	
+	float: left;
 }	
 
 
@@ -49,9 +41,27 @@ img {
 
 }
 
-#container {
+#container2 {
 	background: #FFFFFF;
+	width: 600px;
+	border: 5px #FFFFFF;
+	background-color: #FFFFFF;
+	margin: 50px;
+	padding: 20px 0;
+	float: left;
 }
+
+#container2 {
+	background: #FFFFFF;
+	width: 1600px;
+	border: 5px #FFFFFF;
+	background-color: #FFFFFF;
+	margin: 50px;
+	padding: 20px 0;
+	float: left;
+}
+
+
 footer {
 	background: #262626;
 	color: #FFFFFF;
@@ -59,14 +69,6 @@ footer {
 	bottom: 10px;
 	padding: 5px
 	font-size: 12px;
-}
-
-form-wrap {
-	width: 600px;
-	border: 5px #FFFFFF
-	background-color: #FFFFFF
-	margin: 50px auto;
-	padding: 20px 0;
 }
 
 form {
