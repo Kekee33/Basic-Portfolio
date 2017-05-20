@@ -17,7 +17,16 @@ h2 {
 	color: #00A09A;
 }
 
- technical_1 {
+#buttons {
+	background: #FFFFFF
+	color:;
+	float: right;
+	bottom: 15px;
+	margin-top: 0
+
+}
+
+ #technical_1 {
 		float: left;
 }
 
@@ -31,6 +40,7 @@ h2 {
 	top: 150px;
 	left: 300px;
 }
+
 #nature_1 {
 	position: absolute;
 	top: 300px
