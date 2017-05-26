@@ -2,12 +2,18 @@ body {
 background: #c3c3c3;
 }
 
-#media {
-	margin-left: center;
+#media-left {
+	float: right;
+	margin-top: 50px;
 }
 
 p {
-	width: 500px;
+	width: 700px;
+	font-family: times; sans serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 50px;
+	padding: 5px;
 }
 
 .container {
